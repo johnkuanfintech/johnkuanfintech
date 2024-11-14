@@ -6,6 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born and raised in the Silicon Valley; friends called me a "Chameleon" because of how many different groups of friends I had and how well I blended in.
 
+Resume: https://notebooklm.google.com/notebook/ae6fd5ab-514a-4f84-8622-99359341a48e
+
+
 <!---
 johnkuanfintech/johnkuanfintech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
