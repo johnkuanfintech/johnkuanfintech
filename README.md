@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kuan
 - 👀 I’m interested in pivoting from financial services to HiTech.
-- 🌱 I’m currently learning SQL and Gen AI.
+- 🌱 I’m currently learning SQL, Gen AI, and Python.
 - 💞️ I’m looking to collaborate on financial services, payments, and compliance related projects in B2B or B2C.
 - 📫 How to reach me (424) 394-7890 johnkuanfintech@gmail.com [LinkedIn](https://www.linkedin.com/in/johnkuan/)
 - 😄 Pronouns: He/Him
