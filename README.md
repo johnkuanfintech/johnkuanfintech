@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born and raised in the Silicon Valley; friends called me a "Chameleon" because of how many different groups of friends I had and how well I blended in.
 
-[AI Resume Audio Overview](https://notebooklm.google.com/notebook/ae6fd5ab-514a-4f84-8622-99359341a48e/audio)
+[AI Resume Audio Overview](https://notebooklm.google.com/notebook/2d80d3e8-87c4-4ede-81ff-6491dd6a2057/audio)
 
 [AI Resume Presentation](https://gamma.app/docs/John-Kuan-Strategic-Program-Management-in-Finance-ptd5tfn13yvunmp)
 
