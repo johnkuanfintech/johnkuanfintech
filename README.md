@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kuan
 - 👀 I’m interested in pivoting from financial services to high-tech.
-- 🌱 I’m currently learning SQL, Gen AI, [system design](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF), and Python. Looking into CPA/CFA designations.
+- 🌱 I’m currently learning SQL, Gen AI, [system design](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF), and Python.
 - 💞️ I’m looking to collaborate on financial services, payments, and risk-related projects in B2B or B2C.
 - 📫 How to reach me (424) 394-7890 johnkuanfintech@gmail.com [LinkedIn](https://www.linkedin.com/in/johnkuan/)
 - 😄 Pronouns: He/Him
