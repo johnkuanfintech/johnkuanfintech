@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Kuan
 - 👀 I’m interested in high-tech.
-- 🌱 I have projects in SQL, Gen AI, Python, and Swift.
+- 🌱 I have projects in SQL, Gen AI, Python, Swift, and system design.
 - 💞️ I’m looking to collaborate on financial services, payments, GTM, and risk-related projects in B2B or B2C.
 - 📫 How to reach me (424) 394-7890 johnkuanfintech@gmail.com [LinkedIn](https://www.linkedin.com/in/johnkuan/)
 - 😄 Pronouns: He/Him
